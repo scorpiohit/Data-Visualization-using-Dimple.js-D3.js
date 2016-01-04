@@ -16,11 +16,7 @@ to be only one of the several features of my final visualization where I used th
 indicator to show the players' average by selecting each height bar.
 
 I started my final visualization with handedness and heights as legends to toggle for showing the average of players with 
-respect to their weights. But the start was a complete mess as you can see in the attached "inital version.html" file.
-
-Later onward I put the handedness in the legends and made another chart with the same visualization to provide animation 
-based on heights of players. I faced an issue in animation on click of a given parameter. After stopping animation by 
-clicking once on any given height, the animation starts again during subsequent selection of handedness. 
+respect to their weights. Later onward I put the handedness in the legends and made another chart with the same visualization to provide animation based on heights of players. I faced an issue in animation on click of a given parameter. After stopping animation by clicking once on any given height, the animation starts again during subsequent selection of handedness. 
 
 I find really difficult resolving this issue. However, I did find a temporary solution which I have mentioned in the 
 directions on the visualization. By selecting first handedness and then height of player, we can stop the animation and 
